@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcentral_gateway_docs=self.webpackChunkcentral_gateway_docs||[]).push([[6432],{7140:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/central-gateway-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
